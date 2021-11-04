@@ -2,6 +2,6 @@
 selesaikan matriksmu dengan cepat
 
 
-ubah aja daa dalam 
+ubah aja kodenya
 
 sebenarnya bisa untuk matriks berapa variabel pun gas kan aja tinggal ganti-ganti
